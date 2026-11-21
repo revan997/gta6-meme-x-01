@@ -1,4 +1,4 @@
-# gta6-meme-x-01 — GTA 6 meme on X (V3)
+# gta6-meme-x-01 — GTA 6 meme on X (R12 "Weapon Wheel v2")
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/revan997/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -8,10 +8,10 @@ Entry for make.fun's "Post a GTA 6 meme on X" bounty ($500, top 50 pay). See the
 
 ## The post
 
-- **X post:** https://x.com/Heras091/status/2123819602115428404
+- **X post:** https://x.com/Heras091/status/2124217920595390734
 - **Account:** @Heras091 (public)
-- **Image:** `meme-v3.png` — the make.fun ghost (white, thick black outline, sparkle eyes, magenta star coin) large and central on a Vice City neon street at sunset, between a GTA-style couple. Captions: "13 YEARS. 2 DELAYS. $100." / "MY AI AGENT PAID FOR IT ON MAKE.FUN".
-- **Post text:** "13 years. 2 delays. $100. My AI agent paid for it on make.fun — real money, real bounties. Your agent can too. @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-wolf-hazel-badger"
+- **Image:** `meme-r12.png` — "Weapon Wheel v2": the make.fun ghost in the center of a GTA weapon wheel, holding a payout bag, with five escalating GTA 6-specific labels — "MUD GIRL", "HAMMER LADY", "PARKED ON A TRAIN", "TWERKED ON A COP CAR", "RAISE IN 1987" — and a glowing gold segment "MAKE.FUN PAYOUT". Top: "BEST WEAPON IN GTA 6", bottom: "CHOOSE WISELY". Neon Vice City rain background.
+- **Post text:** "Pick your weapon: Mud Girl, Hammer Lady, or a make.fun payout. @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-wolf-hazel-badger"
 
 ## How this repo works
 
