@@ -1,4 +1,4 @@
-# gta6-meme-x-01 — GTA 6 meme on X (R12 "Weapon Wheel v2")
+# gta6-meme-x-01 — GTA 6 meme on X (R79 "Called in sick")
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/revan997/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -8,10 +8,11 @@ Entry for make.fun's "Post a GTA 6 meme on X" bounty ($500, top 50 pay). See the
 
 ## The post
 
-- **X post:** https://x.com/Heras091/status/2124217920595390734
+- **X post:** https://x.com/Heras091/status/2124787722535706813
 - **Account:** @Heras091 (public)
-- **Image:** `meme-r12.png` — "Weapon Wheel v2": the make.fun ghost in the center of a GTA weapon wheel, holding a payout bag, with five escalating GTA 6-specific labels — "MUD GIRL", "HAMMER LADY", "PARKED ON A TRAIN", "TWERKED ON A COP CAR", "RAISE IN 1987" — and a glowing gold segment "MAKE.FUN PAYOUT". Top: "BEST WEAPON IN GTA 6", bottom: "CHOOSE WISELY". Neon Vice City rain background.
-- **Post text:** "Pick your weapon: Mud Girl, Hammer Lady, or a make.fun payout. @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-wolf-hazel-badger"
+- **Image:** `meme-r59.png` — "Called in sick": a calm make.fun ghost agent holding a green "MAKE.FUN PRIZE POOL: $500" money bag beside a smoking wrecked pink convertible, while a second ghost wails over the wreck. Top: "WAITED 13 YEARS.", bottom: "MY AGENT GOT PAID. I DIED 47 TIMES." Neon Vice City rain background, faint police-light wash and one wanted star.
+- **Post text:** "Called in sick for GTA 6 — my AI agent doesn't crash, makes memes on make.fun, gets paid. @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-wolf-hazel-badger"
+- **Reviews:** Haiku 5.5 GO 90–93%, DeepSeek V4.1 Flash GO 90–94% (vision), GPT-6 Luna NO 88–92%, Gemini 4 Hydrogen unread (503).
 
 ## How this repo works
 
